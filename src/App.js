@@ -21,7 +21,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <p>
-          The recipe: {apiResponse}.
+          The recipe: {apiResponse}
         </p>
       </header>
     </div>
